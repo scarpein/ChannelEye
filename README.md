@@ -24,7 +24,9 @@
 
 ### 1️⃣ **필수 패키지 설치**  
 ```bash
-pip install -r requirements.txt
+# pip install -r requirements.txt
+# torch gpu관련 환경이 개인 마다 다를수 있어, requirements는 첨부하지 않았습니다.
+# python main.py를 수행해보고, 필요한 라이브러리 설치하면 될 듯 합니다.
 ```
 
 ### 2️⃣ **프로그램 실행**  
